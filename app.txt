@@ -1,3 +1,4 @@
 Application version 1 with gold theme
+Application version 1 with silver theme
 Application version 1 with green theme
 
