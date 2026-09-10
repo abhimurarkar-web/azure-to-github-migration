@@ -1,1 +1,1 @@
-Timezone: Asia/Kolkata
+Timezone: Asia/Hyderabad
