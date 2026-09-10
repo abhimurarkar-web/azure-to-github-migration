@@ -1,1 +1,3 @@
 Application version 1 with red theme
+Application version 1 with green theme
+
