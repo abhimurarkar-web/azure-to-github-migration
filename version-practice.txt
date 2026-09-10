@@ -1,3 +1,2 @@
 Application version 1
 Application version 2
-Application version 3
