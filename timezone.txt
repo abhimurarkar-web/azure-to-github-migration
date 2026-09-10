@@ -1,1 +1,2 @@
-Timezone: Asia/Chennai 
+Timezone: Asia/Hyderabad
+

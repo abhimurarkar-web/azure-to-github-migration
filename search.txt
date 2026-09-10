@@ -1,2 +1,2 @@
-Feature: Search functionality
-editing the search file A
+edited the search file
+
