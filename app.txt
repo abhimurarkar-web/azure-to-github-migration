@@ -3,3 +3,5 @@ Application version 1 with silver theme
 Application version 1 with green theme
 Practicing commits using GitHub Desktop
 Practicing pulling changes from Azure Repos
+
+Feature: email notifications
