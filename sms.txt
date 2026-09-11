@@ -1,1 +1,1 @@
-Feature: SMS notifications
+Feature: SMS notifications for security
