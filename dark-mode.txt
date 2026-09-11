@@ -1,4 +1,2 @@
 added dark mode
-dark mode 1
-dark mode 2
-dark mode 3
+Revert 1
