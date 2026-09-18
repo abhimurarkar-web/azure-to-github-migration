@@ -5,3 +5,4 @@ Practicing commits using GitHub Desktop
 Practicing pulling changes from Azure Repos
 
 Feature: email notifications
+1
